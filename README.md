@@ -1,16 +1,21 @@
-### Hi there 👋
+## S K I L L
 
-<!--
-**kazuya0202/kazuya0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=python,vscode)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+### - H O B B Y
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=c,go,powershell,bash,pytorch,blender)](https://skillicons.dev)
+
+## S T A T U S
+
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuya0202&theme=dark&layout=compact" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=kazuya0202&count_private=true&theme=dark&show_icons=true" />
+  </a>
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kazuya0202&theme=onestar&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
