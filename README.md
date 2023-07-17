@@ -4,7 +4,7 @@
 
 ### - H O B B Y
 
-[![My Skills](https://skillicons.dev/icons?i=c,go,powershell,bash,pytorch,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,c,go,powershell,bash,pytorch,blender)](https://skillicons.dev)
 
 ## S T A T U S
 
