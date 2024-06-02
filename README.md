@@ -1,10 +1,10 @@
 ## S K I L L
 
-[![My Skills](https://skillicons.dev/icons?i=python,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,vscode,ts,nextjs,react)](https://skillicons.dev)
 
-### - H O B B Y
+## H O B B Y
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,c,go,powershell,bash,pytorch,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,go,powershell,bash,pytorch,blender)](https://skillicons.dev)
 
 ## S T A T U S
 
