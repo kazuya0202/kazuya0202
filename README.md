@@ -1,12 +1,8 @@
-## S K I L L
+## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,vscode,ts,nextjs,react)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,python,ts,nextjs,react,materialui,tailwind,supabase,firebase,bash&perline=5)
 
-## H O B B Y
-
-[![My Skills](https://skillicons.dev/icons?i=c,go,powershell,bash,pytorch,blender)](https://skillicons.dev)
-
-## S T A T U S
+## Status
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
