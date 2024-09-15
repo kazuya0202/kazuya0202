@@ -1,6 +1,6 @@
 ## Skills
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,python,ts,nextjs,react,materialui,tailwind,supabase,firebase,bash&perline=5&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,python,ts,nextjs,react,materialui,tailwind,supabase,firebase,flutter,bash&perline=6&theme=dark)
 
 ## Status
 
